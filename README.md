@@ -1,1 +1,1 @@
-# data690fall21
+# Data 690 Fall 2021
