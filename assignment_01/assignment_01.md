@@ -5,11 +5,11 @@ Create a RESUME.md in your assignment_01 foloder. This is your resume.
 Provide  the following information:
 - Photo of you
 - Your name
-- Contact information, 
-- Summary of your career objectives,
+- Contact information
+- Summary of your career objectives
 - Education background
 - Employment experience
-- Language skills,
+- Language skills
 - Technical/business skills
 - Awards
 - Social activities
@@ -20,4 +20,5 @@ Note:
 
 `![](name of the image file)`
 
-2. Use the instructor's resume in the data690fall21 folder as a sample and make your as detailed and well-formatted as possible.
+2. Use the instructor's resume in this folder as a sample and make your as detailed and well-formatted as possible.
+3. Submit the link to your assignment_01 folder to Black Board.
