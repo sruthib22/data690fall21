@@ -3,13 +3,13 @@
 
 Session | Date  | Topic                                                         | Assignment
 --------|-------| --------------------------------------------------------------|-----------
-1       | 09/02 | GitHub, Markdown, Colab, Jupyter Notebook                     | Resume in Markdown format
-2       | 09/09 | Python Basics - Data Types, Collections, & Flow Controls      | Implement descriptive statistics 
+1       | 09/02 | GitHub, Markdown, Google Colab, Jupyter Notebook              | Resume in Markdown format
+2       | 09/09 | Python Data Types, Collections, & Control Flow                | Implement descriptive statistics 
 3       | 09/16 | Python Functions, Modules, & Packages                         | descriptive statistics using functions
 4       | 09/23 | Python Inputs and Outputs                                     | Census Costs 
-5       | 09/30 | Pandas Basics, Descriptive Statistics                         | Survey Data
+5       | 09/30 | Pandas Basics & Descriptive Statistics                        | Survey Data
 6       | 10/07 | Pandas Groupby                                                | Survey Data
-7       | 10/14 | Data Viz - Introduction to Plotly                             | WDX
+7       | 10/14 | Data Viz - Introduction to Plotly                             | Surday Data
 8       | 10/21 | Data viz - Distribution (histogram, boxplot, choropleth)      | WDX
 9       | 10/28 | Data Viz - Ranking/Part-of-Whole (bar, pie, pareto, sunburst) | WDX
 10      | 11/04 | Datq Viz - Association (scatter, heatmap, pairwise scatter)   | WDX
