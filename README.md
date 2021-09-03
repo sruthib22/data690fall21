@@ -13,8 +13,10 @@ Session | Date | Topic | Assignment
 10      | 11/04 | Datq Viz - Association (scatter, heatmap, pairwise scatter)   |
 11      | 11/11 | Probability, LLN, & CLT                                       |
 12      | 11/18 | Inferential Statistics - Point and Interval Estimation        |
-13      | 11/25 | Thanksgiving, NO CLASS                                        | Happy Holiday!
-14      | 12/02 | Inferential Statistics - Hypothesis Testing                   | LAST CLASS
+        | 11/25 | Thanksgiving, NO CLASS                                        | Happy Holiday!
+13      | 12/02 | Inferential Statistics - Hypothesis Testing                   | 
+14      | 12/09 | Summary & Conclusion                                          | LAST CLASS, Hooray!
+
 
 
 
