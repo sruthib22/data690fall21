@@ -17,4 +17,4 @@ Session | Date  | Topic                                                         
 12      | 11/18 | Inferential Statistics - Point and Interval Estimation              |
 HOLIDAY | 11/25 | Thanksgiving, NO CLASS                                              | Happy Holiday!
 13      | 12/02 | Inferential Statistics - Hypothesis Testing                         | Individual Project Part B Due
-14      | 12/09 | Summary & Conclusion                                                | Lat class, Hooray!
+14      | 12/09 | Summary & Conclusion                                                | Last class, Hooray!
