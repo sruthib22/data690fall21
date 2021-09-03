@@ -13,6 +13,7 @@ Provide  the following information:
 - Technical/business skills
 - Awards
 - Social activities
+- and anything else you like to share (hobbies, publications, websites, blogs, etc.)
 
 Note:
 1. Upload an impage of you (headshot or a picture of you) to the assignment_01 folder, and include it in the RESUME.md using the following markdown syntax:
