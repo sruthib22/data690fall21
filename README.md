@@ -1,4 +1,6 @@
-## Data 690 Fall 2021
+
+## Data 690 Fall 2021 Schedule
+
 Session | Date  | Topic                                                         | Assignment
 --------|-------| --------------------------------------------------------------|-----------
 1       | 09/02 | GitHub, Markdown, Colab, Jupyter Notebook                     | Resume in Markdown format
