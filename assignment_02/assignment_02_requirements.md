@@ -13,6 +13,9 @@
     5. Variance
     6. Standard Deviation
 
+## References
+https://www.mathsisfun.com/data/standard-deviation.html
+
 **Note:**
 
 1. Use the basic Python concepts and methods. 
