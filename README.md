@@ -5,8 +5,8 @@ Session | Date  | Topic                                                         
 --------|-------| --------------------------------------------------------------------|-----------
 1       | 09/02 | GitHub, Markdown, Google Colab, Jupyter Notebook                    | Resume in Markdown format
 2       | 09/09 | Python - Data Types, Collections (str, list), & Control Flow        | Implement descriptive statistics 
-3       | 09/16 | Python - dictionary, comprehension, function, input/output          | Print a matrix of random numbers
-4       | 09/23 | Pandas - Basics & Descriptive Statistics                            | Census Costs 
+3       | 09/16 | Python - dictionary, comprehension, function,                       | Print a matrix of random numbers
+4       | 09/23 | Python vs Pandas - Python Input/Output & Pandas Intro               | Census Costs 
 5       | 09/30 | Pandas - Accessing rows, columns, cells, and query                  | Survey Data
 6       | 10/07 | Pandas - Groupby, Merge/Concat/Join, Pivot, & tidy data             | Survey Data
 7       | 10/14 | Dataviz - Matplotlib, Seaborn, Plotly, distro (histogram/boxplot)   | Survay Data
